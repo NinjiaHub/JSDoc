@@ -2,12 +2,13 @@
 
 **注：文档正在翻译中，译者会逐步填充。**
 
-## 阅读顺序 ⬇️
+## 阅读顺序 🕊️
 
 * Index
 	* 起步
 	* JSDoc 示例
-		* [ES 2015 类](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-classes) - 如何给 ECMAScript 2015中的类添加JSDoc注释
+		* [ES 2015 类](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-classes "ES 2015 classes") - 如何给 ECMAScript 2015中的类添加JSDoc注释
+		* [ES 2015 模块](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-modules "ES 2015 Modules") - 如何给 ECMAScript 2015中的模块添加JSDoc注释
 	* 块标签(Block Tags)
 
 ## 声明 ⛰️
