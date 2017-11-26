@@ -66,7 +66,7 @@ const Point = class {
 
 ## <span id="extends">继承类注释</span>
 
-当使用`extends`关键字来继承一个已经存在的类时，需要告诉 JSDoc 要继承的类是哪个。可以通过 [@augments](https://ninjiahub.github.io/JSDoc/docs/augments) 或者 [@extends](https://ninjiahub.github.io/JSDoc/docs/extends) 标签来实现。
+当使用`extends`关键字来继承一个已经存在的类时，需要告诉 JSDoc 要继承的类是哪个。可以通过 [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments) 或者 [@extends](https://ninjiahub.github.io/JSDoc/docs/tags/extends) 标签来实现。
 
 例如，继承上面的`Point`类：
 
@@ -100,7 +100,7 @@ class Dot extends Point {
 
 ## <span id="related">相关链接</span> 🕸
 
-* [@augments](https://ninjiahub.github.io/JSDoc/docs/augments)
+* [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments)
 
 ## 声明 ⛰️
 
