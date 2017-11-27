@@ -6,7 +6,7 @@
 
 * Index
 	* 起步
-		* [使用 JSDoc 3 添加文档注释](https://ninjiahub.github.io/JSDoc/docs/started/about-getting-started "Getting started using JSDoc 3") - 快速学习使用 JSDoc 给 JavaScript 添加文档注释
+		* [使用 JSDoc 3 添加文档注释](https://ninjiahub.github.io/JSDoc/docs/start/about-getting-started "Getting started using JSDoc 3") - 快速学习使用 JSDoc 给 JavaScript 添加文档注释
 	* JSDoc 示例
 		* [ES 2015 类](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-classes "ES 2015 classes") - 如何给 ECMAScript 2015中的类添加JSDoc注释
 		* [ES 2015 模块](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-modules "ES 2015 Modules") - 如何给 ECMAScript 2015中的模块添加JSDoc注释
