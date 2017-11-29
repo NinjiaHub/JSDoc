@@ -12,6 +12,7 @@
 		* [ES 2015 模块](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-modules "ES 2015 Modules") - 如何给 ECMAScript 2015中的模块添加JSDoc注释
 	* 块标签(Block Tags)
 		* [@class](https://ninjiahub.github.io/JSDoc/docs/tags/class "tag @ class")(同义词：@constructor) - 该方法期望被 `new` 关键字进行构造调用
+		* [@borrows](https://ninjiahub.github.io/JSDoc/docs/tags/borrows "tag @borrows") - 一个对象引用另外一个对象的文档注释
 
 ## 声明 ⛰️
 
