@@ -40,7 +40,7 @@ var p = new Person();
 
 ## 声明 ⛰️
 
-本文翻译自[JSDoc 3 官方文档 - Using namepaths with JSDoc 3](http://usejsdoc.org/about-namepaths.html "namepaths")。
+本文翻译自[JSDoc 3 官方文档 - @class](http://usejsdoc.org/tags-class.html "tag class")。
 
 如有版权问题请联系译者。
 

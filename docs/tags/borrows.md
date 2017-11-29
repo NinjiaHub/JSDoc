@@ -41,7 +41,7 @@ function trstr(str) {
 ```
 ## 声明 ⛰️
 
-本文翻译自[JSDoc 3 官方文档 - Using namepaths with JSDoc 3](http://usejsdoc.org/about-namepaths.html "namepaths")。
+本文翻译自[JSDoc 3 官方文档 - @borrows](http://usejsdoc.org/tags-borrows.html "tag borrows")。
 
 如有版权问题请联系译者。
 
