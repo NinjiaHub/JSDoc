@@ -15,6 +15,7 @@
 		* [@class](https://ninjiahub.github.io/JSDoc/docs/tags/class "tag @ class")(同义词：@constructor) - 该方法期望被 `new` 关键字进行构造调用
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
+		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @ function")(同义词：@func, @method) - 描述一个函数或者方法
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
 
 ## 声明 ⛰️
