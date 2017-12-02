@@ -16,6 +16,7 @@
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
 		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @ function")(同义词：@func, @method) - 描述一个函数或者方法
+		* [@lends](https://ninjiahub.github.io/JSDoc/docs/tags/lends "tag @lends") - 给对象字面量中的属性添加文档注释，就像这些属性属于一个给定名称的标识符一样
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
 
 ## 声明 ⛰️
