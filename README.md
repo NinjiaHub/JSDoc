@@ -20,6 +20,7 @@
 		* [@lends](https://ninjiahub.github.io/JSDoc/docs/tags/lends "tag @lends") - 给对象字面量中的属性添加文档注释，就像这些属性属于一个给定名称的标识符一样
 		* [@license](https://ninjiahub.github.io/JSDoc/docs/tags/license "tag @ license") - 标识该项目中代码使用的软件许可
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
+		* [@since](https://ninjiahub.github.io/JSDoc/docs/tags/since "tag @since") - 标记该特性是在哪个版本加入的
 		* [@version](https://ninjiahub.github.io/JSDoc/docs/tags/version "tag @version") - 标记一个项的版本号
 
 ## 声明 ⛰️
