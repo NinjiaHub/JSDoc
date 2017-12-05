@@ -7,8 +7,9 @@
 * Index
 	* 起步
 		* [使用 JSDoc 3 添加文档注释](https://ninjiahub.github.io/JSDoc/docs/start/about-getting-started "Getting started using JSDoc 3") - 快速学习使用 JSDoc 给 JavaScript 添加文档注释
-		* [README](https://ninjiahub.github.io/JSDoc/docs/start/about-including-readme "license information for JSDoc 3") - 如何在文档中添加 `README`
 		* [License](https://ninjiahub.github.io/JSDoc/docs/start/about-license "license information for JSDoc 3") - JSDoc 3 软件许可
+		* [package.json](https://ninjiahub.github.io/JSDoc/docs/start/about-including-package "How to show package details in your documentation.") - 如何在文档中添加 `package.json`
+		* [README](https://ninjiahub.github.io/JSDoc/docs/start/about-including-readme "How to include a README file in your documentation.") - 如何在文档中添加 `README`
 	* JSDoc 示例
 		* [ES 2015 类](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-classes "ES 2015 classes") - 如何给 ECMAScript 2015中的类添加JSDoc注释
 		* [ES 2015 模块](https://ninjiahub.github.io/JSDoc/docs/examples/es-2015-modules "ES 2015 Modules") - 如何给 ECMAScript 2015中的模块添加JSDoc注释
