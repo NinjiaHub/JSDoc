@@ -18,8 +18,9 @@
 		* [@class](https://ninjiahub.github.io/JSDoc/docs/tags/class "tag @ class")(同义词：@constructor) - 该方法期望被 `new` 关键字进行构造调用
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
-		* [@fires](https://ninjiahub.github.io/JSDoc/docs/tags/fires "tag @fires")(同义词：@func, @method) - 描述一个函数或者方法
-		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @ function")(同义词：@emits) - 描述该方法会触发的事件
+		* [@event](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event") - 标记事件
+		* [@fires](https://ninjiahub.github.io/JSDoc/docs/tags/fires "tag @fires")(同义词：@func, @method) - 描述该方法会触发的事件
+		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @ function")(同义词：@emits) - 描述一个函数或者方法
 		* [@lends](https://ninjiahub.github.io/JSDoc/docs/tags/lends "tag @lends") - 给对象字面量中的属性添加文档注释，就像这些属性属于一个给定名称的标识符一样
 		* [@license](https://ninjiahub.github.io/JSDoc/docs/tags/license "tag @ license") - 标识该项目中代码使用的软件许可
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
