@@ -27,6 +27,7 @@
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
 		* [@since](https://ninjiahub.github.io/JSDoc/docs/tags/since "tag @since") - 标记该特性是在哪个版本加入的
+		* [@todo](https://ninjiahub.github.io/JSDoc/docs/tags/todo "tag @todo") - 标记未完成的任务
 		* [@version](https://ninjiahub.github.io/JSDoc/docs/tags/version "tag @version") - 标记一个项的版本号
 		* [@yields](https://ninjiahub.github.io/JSDoc/docs/tags/yields "tag @yields")(同义词：@yield) - 给 generator 函数的生成值添加文档注释
 
