@@ -35,6 +35,8 @@
 		* [@todo](https://ninjiahub.github.io/JSDoc/docs/tags/todo "tag @todo") - 标记未完成的任务
 		* [@version](https://ninjiahub.github.io/JSDoc/docs/tags/version "tag @version") - 标记一个项的版本号
 		* [@yields](https://ninjiahub.github.io/JSDoc/docs/tags/yields "tag @yields")(同义词：@yield) - 给 generator 函数的生成值添加文档注释
+	* 内联标签(inline tags)
+		* [@inline-link](https://ninjiahub.github.io/JSDoc/docs/tags/inline-link "tag @inline-link")(同义词： {@linkcode}, {@linkplain}) - 在文档内链接到其他项的文档
 
 ## 声明 ⛰️
 
