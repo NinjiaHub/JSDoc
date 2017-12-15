@@ -22,6 +22,7 @@
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
 		* [@event](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event") - 标记事件
+		* [@file](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event")(同义词：@fileoverview, @overview) - 描述文件
 		* [@fires](https://ninjiahub.github.io/JSDoc/docs/tags/fires "tag @fires")(同义词：@func, @method) - 描述该方法会触发的事件
 		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @function")(同义词：@emits) - 描述一个函数或者方法
 		* [@kind](https://ninjiahub.github.io/JSDoc/docs/tags/kind "tag @kind")(同义词：@emits) - 标示标识符的种类
