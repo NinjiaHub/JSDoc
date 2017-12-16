@@ -36,6 +36,7 @@
 		* [@since](https://ninjiahub.github.io/JSDoc/docs/tags/since "tag @since") - 标记该特性是在哪个版本加入的
 		* [@summary](https://ninjiahub.github.io/JSDoc/docs/tags/summary "tag @summary") - 简短版的完整描述
 		* [@this](https://ninjiahub.github.io/JSDoc/docs/tags/this "tag @this") - 关键字 'this' 的指向
+		* [@throws](https://ninjiahub.github.io/JSDoc/docs/tags/throws "tag @throws")(同义词：@exception) - 标记可能抛出的异常
 		* [@todo](https://ninjiahub.github.io/JSDoc/docs/tags/todo "tag @todo") - 标记未完成的任务
 		* [@version](https://ninjiahub.github.io/JSDoc/docs/tags/version "tag @version") - 标记一个项的版本号
 		* [@yields](https://ninjiahub.github.io/JSDoc/docs/tags/yields "tag @yields")(同义词：@yield) - 给 generator 函数的生成值添加文档注释
