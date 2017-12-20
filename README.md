@@ -32,6 +32,7 @@
 		* [@license](https://ninjiahub.github.io/JSDoc/docs/tags/license "tag @license") - 标识该项目中代码使用的软件许可
 		* [@listens](https://ninjiahub.github.io/JSDoc/docs/tags/listens "tag @listens") - 列出一个标识符监听的所有事件
 		* [@name](https://ninjiahub.github.io/JSDoc/docs/tags/name "tag @name") - 标记对象的名字
+		* [@package](https://ninjiahub.github.io/JSDoc/docs/tags/package "tag @package") - 标记一个标识符是 **包私有的**
 		* [@readonly](https://ninjiahub.github.io/JSDoc/docs/tags/readonly "tag @readonly") - 标示该标识符是只读的
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
