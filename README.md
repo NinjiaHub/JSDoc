@@ -37,6 +37,7 @@
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
 		* [@since](https://ninjiahub.github.io/JSDoc/docs/tags/since "tag @since") - 标记该特性是在哪个版本加入的
+		* [@since](https://ninjiahub.github.io/JSDoc/docs/tags/static "tag @static") - 标记一个静态成员
 		* [@summary](https://ninjiahub.github.io/JSDoc/docs/tags/summary "tag @summary") - 简短版的完整描述
 		* [@this](https://ninjiahub.github.io/JSDoc/docs/tags/this "tag @this") - 关键字 'this' 的指向
 		* [@throws](https://ninjiahub.github.io/JSDoc/docs/tags/throws "tag @throws")(同义词：@exception) - 标记可能抛出的异常
