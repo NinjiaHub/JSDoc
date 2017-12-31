@@ -17,6 +17,7 @@
 		* [@abstract](https://ninjiahub.github.io/JSDoc/docs/tags/abstract "tag @abstract")(同义词：@virtual) - 该标识符必须被继承者实现(或者复写)
 		* [@access](https://ninjiahub.github.io/JSDoc/docs/tags/access "tag @access") - 指定成员的访问等级(private, package-private, public, 或者 protected)
 		* [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments "tag @augments")(同义词：@extends) - 标记一个标识符继承自、添加到父标识符
+		* [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments "tag @augments") - 标记某项的作者
 		* [@borrows](https://ninjiahub.github.io/JSDoc/docs/tags/borrows "tag @borrows") - 一个对象引用另外一个对象的文档注释
 		* [@class](https://ninjiahub.github.io/JSDoc/docs/tags/class "tag @class")(同义词：@constructor) - 该方法期望被 `new` 关键字进行构造调用
 		* [@classdesc](https://ninjiahub.github.io/JSDoc/docs/tags/classdesc "tag @classdesc") - 使用下面的文字描述整个类
