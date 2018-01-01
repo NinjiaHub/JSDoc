@@ -6,7 +6,7 @@
 
 * Index
 	* 起步
-		* [使用 JSDoc 3 添加文档注释](./docs/start/about-getting-started.md "Getting started using JSDoc 3") - 快速学习使用 JSDoc 给 JavaScript 添加文档注释
+		* [使用 JSDoc 3 添加文档注释](./docs/start/about-getting-started.html "Getting started using JSDoc 3") - 快速学习使用 JSDoc 给 JavaScript 添加文档注释
 		* [License](https://ninjiahub.github.io/JSDoc/docs/start/about-license "license information for JSDoc 3") - JSDoc 3 软件许可
 		* [package.json](https://ninjiahub.github.io/JSDoc/docs/start/about-including-package "How to show package details in your documentation.") - 如何在文档中添加 `package.json`
 		* [README](https://ninjiahub.github.io/JSDoc/docs/start/about-including-readme "How to include a README file in your documentation.") - 如何在文档中添加 `README`
