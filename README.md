@@ -28,6 +28,7 @@
 		* [@fires](https://ninjiahub.github.io/JSDoc/docs/tags/fires "tag @fires")(同义词：@func, @method) - 描述该方法会触发的事件
 		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @function")(同义词：@emits) - 描述一个函数或者方法
 		* [@ignore](https://ninjiahub.github.io/JSDoc/docs/tags/ignore "tag @ignore") - 使一个标识符不出现在文档中
+		* [@inner](https://ninjiahub.github.io/JSDoc/docs/tags/inner "tag @inner") - 标记一个内部对象
 		* [@kind](https://ninjiahub.github.io/JSDoc/docs/tags/kind "tag @kind") - 标识一个可以被其他标识符实现的接口
 		* [@kind](https://ninjiahub.github.io/JSDoc/docs/tags/kind "tag @kind")(同义词：@emits) - 标示标识符的种类
 		* [@lends](https://ninjiahub.github.io/JSDoc/docs/tags/lends "tag @lends") - 给对象字面量中的属性添加文档注释，就像这些属性属于一个给定名称的标识符一样
