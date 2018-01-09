@@ -16,6 +16,7 @@
 	* 块标签(Block Tags)
 		* [@abstract](https://ninjiahub.github.io/JSDoc/docs/tags/abstract "tag @abstract")(同义词：@virtual) - 该标识符必须被继承者实现(或者复写)
 		* [@access](https://ninjiahub.github.io/JSDoc/docs/tags/access "tag @access") - 指定成员的访问等级(private, package-private, public, 或者 protected)
+		* [@alias](https://ninjiahub.github.io/JSDoc/docs/tags/alias "tag @alias") - 给一个变量添加别名
 		* [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments "tag @augments")(同义词：@extends) - 标记一个标识符继承自、添加到父标识符
 		* [@augments](https://ninjiahub.github.io/JSDoc/docs/tags/augments "tag @augments") - 标记某项的作者
 		* [@borrows](https://ninjiahub.github.io/JSDoc/docs/tags/borrows "tag @borrows") - 一个对象引用另外一个对象的文档注释
