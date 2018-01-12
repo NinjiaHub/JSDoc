@@ -23,6 +23,7 @@
 		* [@borrows](https://ninjiahub.github.io/JSDoc/docs/tags/borrows "tag @borrows") - 一个对象引用另外一个对象的文档注释
 		* [@class](https://ninjiahub.github.io/JSDoc/docs/tags/class "tag @class")(同义词：@constructor) - 该方法期望被 `new` 关键字进行构造调用
 		* [@classdesc](https://ninjiahub.github.io/JSDoc/docs/tags/classdesc "tag @classdesc") - 使用下面的文字描述整个类
+		* [@constant](https://ninjiahub.github.io/JSDoc/docs/tags/constant "tag @constant")(同义词：@const) - 将一个对象标记为常量
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
 		* [@enum](https://ninjiahub.github.io/JSDoc/docs/tags/enum "tag @enum") - 标记一组相关的属性
