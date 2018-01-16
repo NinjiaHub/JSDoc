@@ -29,6 +29,7 @@
 		* [@enum](https://ninjiahub.github.io/JSDoc/docs/tags/enum "tag @enum") - 标记一组相关的属性
 		* [@event](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event") - 标记事件
 		* [@example](https://ninjiahub.github.io/JSDoc/docs/tags/example "tag @example") - 提供一个如何使用已标记项目的示例
+		* [@exports](https://ninjiahub.github.io/JSDoc/docs/tags/exports "tag @exports") - 标记模块导出的成员属性
 		* [@file](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event")(同义词：@fileoverview, @overview) - 描述文件
 		* [@fires](https://ninjiahub.github.io/JSDoc/docs/tags/fires "tag @fires")(同义词：@func, @method) - 描述该方法会触发的事件
 		* [@function](https://ninjiahub.github.io/JSDoc/docs/tags/function "tag @function")(同义词：@emits) - 描述一个函数或者方法
