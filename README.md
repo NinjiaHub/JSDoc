@@ -41,6 +41,7 @@
 		* [@lends](https://ninjiahub.github.io/JSDoc/docs/tags/lends "tag @lends") - 给对象字面量中的属性添加文档注释，就像这些属性属于一个给定名称的标识符一样
 		* [@license](https://ninjiahub.github.io/JSDoc/docs/tags/license "tag @license") - 标识该项目中代码使用的软件许可
 		* [@listens](https://ninjiahub.github.io/JSDoc/docs/tags/listens "tag @listens") - 列出一个标识符监听的所有事件
+		* [@member](https://ninjiahub.github.io/JSDoc/docs/tags/member "tag @member") - 标记一个成员
 		* [@mixes](https://ninjiahub.github.io/JSDoc/docs/tags/mixes "tag @mixes") - 该对象会将另外一个对象的所有成员混入
 		* [@mixin](https://ninjiahub.github.io/JSDoc/docs/tags/mixin "tag @mixin") - 标记一个混入对象
 		* [@name](https://ninjiahub.github.io/JSDoc/docs/tags/name "tag @name") - 标记对象的名字
