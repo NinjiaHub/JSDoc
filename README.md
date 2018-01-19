@@ -46,6 +46,7 @@
 		* [@mixin](https://ninjiahub.github.io/JSDoc/docs/tags/mixin "tag @mixin") - 标记一个混入对象
 		* [@name](https://ninjiahub.github.io/JSDoc/docs/tags/name "tag @name") - 标记对象的名字
 		* [@package](https://ninjiahub.github.io/JSDoc/docs/tags/package "tag @package") - 标记一个标识符是 **包私有的**
+		* [@private](https://ninjiahub.github.io/JSDoc/docs/tags/private "tag @private") - 标记一个标识符是私有的
 		* [@readonly](https://ninjiahub.github.io/JSDoc/docs/tags/readonly "tag @readonly") - 标示该标识符是只读的
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
