@@ -27,6 +27,7 @@
 		* [@constructs](https://ninjiahub.github.io/JSDoc/docs/tags/constructs "tag @constructs") - 该方法是前面类的构造器函数
 		* [@copyright](https://ninjiahub.github.io/JSDoc/docs/tags/copyright "tag @copyright") - 标记版权信息
 		* [@default](https://ninjiahub.github.io/JSDoc/docs/tags/default "tag @default")(同义词：@defaultvalue) - 标记默认值
+		* [@deprecated](https://ninjiahub.github.io/JSDoc/docs/tags/deprecated "tag @deprecated") - 标记一个项不应该继续使用
 		* [@enum](https://ninjiahub.github.io/JSDoc/docs/tags/enum "tag @enum") - 标记一组相关的属性
 		* [@event](https://ninjiahub.github.io/JSDoc/docs/tags/event "tag @event") - 标记事件
 		* [@example](https://ninjiahub.github.io/JSDoc/docs/tags/example "tag @example") - 提供一个如何使用已标记项目的示例
