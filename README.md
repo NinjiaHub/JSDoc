@@ -44,6 +44,7 @@
 		* [@license](https://ninjiahub.github.io/JSDoc/docs/tags/license "tag @license") - 标识该项目中代码使用的软件许可
 		* [@listens](https://ninjiahub.github.io/JSDoc/docs/tags/listens "tag @listens") - 列出一个标识符监听的所有事件
 		* [@member](https://ninjiahub.github.io/JSDoc/docs/tags/member "tag @member") - 标记一个成员
+		* [@memberof](https://ninjiahub.github.io/JSDoc/docs/tags/memberof "tag @memberof") - 当前标识符属于另外一个父标识符
 		* [@mixes](https://ninjiahub.github.io/JSDoc/docs/tags/mixes "tag @mixes") - 该对象会将另外一个对象的所有成员混入
 		* [@mixin](https://ninjiahub.github.io/JSDoc/docs/tags/mixin "tag @mixin") - 标记一个混入对象
 		* [@name](https://ninjiahub.github.io/JSDoc/docs/tags/name "tag @name") - 标记对象的名字
