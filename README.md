@@ -48,6 +48,7 @@
 		* [@mixes](https://ninjiahub.github.io/JSDoc/docs/tags/mixes "tag @mixes") - 该对象会将另外一个对象的所有成员混入
 		* [@mixin](https://ninjiahub.github.io/JSDoc/docs/tags/mixin "tag @mixin") - 标记一个混入对象
 		* [@name](https://ninjiahub.github.io/JSDoc/docs/tags/name "tag @name") - 标记对象的名字
+		* [@override](https://ninjiahub.github.io/JSDoc/docs/tags/override "tag @override") - 标示一个标识符重写了父类中的同名标识符
 		* [@package](https://ninjiahub.github.io/JSDoc/docs/tags/package "tag @package") - 标记一个标识符是 **包私有的**
 		* [@private](https://ninjiahub.github.io/JSDoc/docs/tags/private "tag @private") - 标记一个标识符是私有的
 		* [@readonly](https://ninjiahub.github.io/JSDoc/docs/tags/readonly "tag @readonly") - 标示该标识符是只读的
