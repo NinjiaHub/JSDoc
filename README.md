@@ -51,6 +51,7 @@
 		* [@override](https://ninjiahub.github.io/JSDoc/docs/tags/override "tag @override") - 标示一个标识符重写了父类中的同名标识符
 		* [@package](https://ninjiahub.github.io/JSDoc/docs/tags/package "tag @package") - 标记一个标识符是 **包私有的**
 		* [@private](https://ninjiahub.github.io/JSDoc/docs/tags/private "tag @private") - 标记一个标识符是私有的
+		* [@public](https://ninjiahub.github.io/JSDoc/docs/tags/public "tag @public") - 该标识符为 public 修饰
 		* [@readonly](https://ninjiahub.github.io/JSDoc/docs/tags/readonly "tag @readonly") - 标示该标识符是只读的
 		* [@returns](https://ninjiahub.github.io/JSDoc/docs/tags/returns "tag @returns")(同义词：@return) - 给函数的返回值添加文档注释
 		* [@see](https://ninjiahub.github.io/JSDoc/docs/tags/see "tag @see") - 引用其他文档注释
